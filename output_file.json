@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Samya Kullab",
+            "title": "Bangladeshi workers were tricked into fighting in Ukraine war",
+            "description": "An Associated Press investigation found that Bangladeshi workers were lured to Russia by the false promise of civilian jobs and thrust onto the battlefield in the Ukraine war. Many were threatened with violence, imprisonment and death. AP spoke with three Ban\u2026",
+            "url": "https://apnews.com/article/russia-ukraine-war-bangladesh-migrant-workers-d7df6a8b2ff60b46ce8e3fa3aafaf60e",
+            "urlToImage": "https://dims.apnews.com/dims4/default/ff6ff2d/2147483647/strip/true/crop/8064x5373+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1d%2Fae%2F7bc028217dfaedd946fe547568f7%2F95d63357f7ae41298aaa53fad611ff7e",
+            "publishedAt": "2026-01-27T05:15:59Z",
+            "content": "LAKSHMIPUR, Bangladesh (AP) A labor recruiter persuaded Maksudur Rahman to leave the tropical warmth of his hometown in Bangladesh and travel thousands of miles to frigid Russia for a job as a janito\u2026 [+12190 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "\u2018Frightening situation\u2019: Bangladesh elections haunted by political violence",
+            "description": "At least 16 political activists have been killed since elections were announced in December.",
+            "url": "https://www.aljazeera.com/features/2026/1/27/fear-and-hope-in-bangladesh-how-political-violence-is-haunting-elections",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP25198412166683-1769476813.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-01-27T05:07:30Z",
+            "content": "Dhaka, Bangladesh When Kazi Shawon Alam learned that Azizur Rahman Musabbir, a fellow Bangladesh Nationalist Party (BNP) activist, had been shot dead on January 7, it confirmed to him what many polit\u2026 [+12975 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "'It was the first time we realised we can also cry after winning a game'",
+            "description": "Habibul Bashar, Mohammad Ashraful, Tareq Aziz and Tatenda Taibu recall Bangladesh's first win since becoming a Test nation - in an ODI in Harare in 2004",
+            "url": "https://www.thecricketmonthly.com/story/1221473/-it-was-the-first-time-we-realised-we-can-also-cry-after-winning-a-game",
+            "urlToImage": "https://i.imgci.com/espncricinfo/cricket_monthly/og-the-cricket-monthly.jpg",
+            "publishedAt": "2020-04-27T09:37:16.8323585Z",
+            "content": "Mushfiqur Rahman and his team-mates celebrate Tatenda Taibu's wicket. In the space of nine overs, Zimbabwe lost four wickets for 19 runs\r\n\u00a9 AFP/Getty Images\r\nFrom June 1999 to February 2004, Banglade\u2026 [+11127 chars]"
+        }
+    ]
+}
